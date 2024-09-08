@@ -1,0 +1,37 @@
+[
+    {
+      "title": "Gesture Based Navigation",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["Python", "Streamlit", "CVZone", "OpenCV"],
+      "demo": "https://motioncue.streamlit.app",
+      "source": "https://github.com/Aniket035/MotionCue/blob/main/mainfinal.py"
+    },
+    {
+      "title": "CVSnap",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["Python", "Streamlit", "RE lib.."],
+      "demo": "https://cvsnap.streamlit.app",
+      "source": "https://github.com/Aniket035/cvparser/blob/main/stmain.py"
+    },
+    {
+      "title": "MotionCue",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["Html", "CSS", "Javascript"],
+      "demo": "https://motion-cue.vercel.app",
+      "source": "https://github.com/Aniket035/ProjectMotionCue/blob/main/index.html"
+    },
+    
+    {
+      "title": "Portfolio",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["Html", "Css", "Javascript"],
+      "demo": "https://aniketkumar-portfolio.vercel.app",
+      "source": "https://github.com/Aniket035/Portfolio"
+    }
+    
+  ]
+  

@@ -1,0 +1,27 @@
+[
+    {
+      "role": "Software Development Intern",
+      "organisation": "Mangosorange Pvt. Ltd.",
+      "startDate": "Ongoing",
+      "endDate": "",
+      "experiences": ["Developed flow diagrams and charts using Eraser.","Designed a procurement management system using Figma.","Created a Python-based CV parser for resume analysis."],
+      "imageSrc": "history/MOLogo.png"
+    },
+    {
+      "role": "Trainee",
+      "organisation": "TechSaksham (Microsoft & SAP, Edunet Foundation)",
+      "startDate": "Nov-2023",
+      "endDate": "Feb-2024",
+      "experiences": ["Specialized in cloud computing for Software Development.","Developed and deployed an AI/ML project 'Hand Gesture Presentation' on Microsoft Azure."],
+      "imageSrc": "history/microsoft.png"
+    },
+    {
+      "role": "Front-end Web Development Intern",
+      "organisation": "IBM CSRBOX",
+      "startDate": "20th Jun 2023",
+      "endDate": "28th Jul 2023",
+      "experiences": ["Acquired proficiency in HTML, CSS, and JavaScript.","Developed responsive web pages and interactive UI components."],
+      "imageSrc": "history/ibm.svg"
+    }
+  ]
+  
