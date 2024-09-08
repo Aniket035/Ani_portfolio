@@ -1,6 +1,6 @@
 import React from 'react'
 
-import styles from "C:/Users/anike/react/Ani_portfolio/src/components/Hero/Hero.module.css";
+import styles from "src/components/Hero/Hero.module.css";
 import { getImageUrl } from "../../utils";
 
 export const Hero = () => {
