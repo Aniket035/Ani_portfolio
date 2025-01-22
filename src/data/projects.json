@@ -1,36 +1,52 @@
 [
     {
-      "title": "Gesture Based Navigation",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["Python", "Streamlit", "CVZone", "OpenCV"],
-      "demo": "https://motioncue.streamlit.app",
-      "source": "https://github.com/Aniket035/MotionCue/blob/main/mainfinal.py"
+      "title": "OverAll Shoes",
+      "imageSrc": "projects/overall.png",
+      "description": "Developed a dynamic e-commerce website offering a wide range of branded shoes, providing users with the best value and seamless shopping experience.",
+      "skills": ["Html","Css","Javascript"],
+      "demo": "https://overallshoes.vercel.app",
+      "source": "https://github.com/Aniket035/overall"
     },
     {
       "title": "CVSnap",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "imageSrc": "projects/CV.png",
+      "description": "Designed and implemented 'CV Snap,' a powerful resume parser that extracts and organizes key details from PDF resumes with precision and clarity.",
       "skills": ["Python", "Streamlit", "RE lib.."],
       "demo": "https://cvsnap.streamlit.app",
       "source": "https://github.com/Aniket035/cvparser/blob/main/stmain.py"
     },
     {
       "title": "MotionCue",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["Html", "CSS", "Javascript"],
+      "imageSrc": "projects/mcf.png",
+      "description": "Developed 'MotionCue,' a versatile project showcasing hand gesture recognition, helmet guardian for safety compliance, and a Virtual Mouse. ",
+      "skills": ["Html", "CSS", "Javascript","Python"],
       "demo": "https://motion-cue.vercel.app",
       "source": "https://github.com/Aniket035/ProjectMotionCue/blob/main/index.html"
     },
-    
     {
-      "title": "Portfolio",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["Html", "Css", "Javascript"],
-      "demo": "https://aniketkumar-portfolio.vercel.app",
-      "source": "https://github.com/Aniket035/Portfolio"
+      "title": "Gesture Based Navigation",
+      "imageSrc": "projects/gestur.png",
+      "description": "Developed a gesture-based navigation system enabling seamless control through intuitive hand movements for enhanced user interaction.",
+      "skills": ["Python", "Streamlit", "CVZone", "OpenCV"],
+      "demo": "https://motioncue.streamlit.app",
+      "source": "https://github.com/Aniket035/MotionCue/blob/main/mainfinal.py"
+    },
+  
+    {
+      "title": "Portfolio Figma Design",
+      "imageSrc": "projects/portfoliofigma.png",
+      "description": "Designed an intuitive and visually appealing personal portfolio in Figma, showcasing projects, and skills with a user-friendly and professional layout.",
+      "skills": ["Figma"],
+      "demo": "https://www.figma.com/proto/XQ9uQ43BbGkaEAPkIkCfaA/Aniket-Portfolio?node-id=0-1&t=m7mOxfsuNOHbTq20-1",
+      "source": "https://www.figma.com/design/XQ9uQ43BbGkaEAPkIkCfaA/Aniket-Portfolio?node-id=0-1&m=dev&t=m7mOxfsuNOHbTq20-1"
+    },
+    {
+      "title": "Haut-Monde Hotel",
+      "imageSrc": "projects/hautmondefigma.png",
+      "description": "Designed comprehensive wireframe for Hout Mound Hotel using Figma, showcasing an intuitive user interface and seamless navigation to enhance user experience.",
+      "skills": ["Figma"],
+      "demo": "https://www.figma.com/proto/GEZ2rveq1Hd8JNvZb7xpV1/HAUT-MONDE-HOTELS-WIREFRAME?node-id=45-9&p=f&t=D8kbWcYZCca3K2Mh-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1",
+      "source": "https://www.figma.com/design/GEZ2rveq1Hd8JNvZb7xpV1/HAUT-MONDE-HOTELS-WIREFRAME?node-id=0-1&m=dev&t=uwiLXjsnM1nFo9cK-1"
     }
     
   ]
