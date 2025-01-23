@@ -26,7 +26,11 @@ export const Contact = () => {
           <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
           <a href="https://www.github.com/Aniket035">github.com/Aniket035</a>
         </li>
+        
+        
+
       </ul>
+      
     </footer>
   );
 };

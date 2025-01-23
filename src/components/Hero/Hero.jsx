@@ -12,7 +12,7 @@ export const Hero = () => {
           I'm a Web developer/Designer with 1 years of experience using Figma, React, 
           JAVA & Python developer. Reach out if you'd like to learn more!
         </p>
-        <a href="mailto:rajaniket035@gmail.com" className={styles.contactBtn}>
+        <a href="https://wa.me/7488558295" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
