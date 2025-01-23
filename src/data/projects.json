@@ -8,6 +8,22 @@
       "source": "https://github.com/Aniket035/overall"
     },
     {
+      "title": "Procurment Management System",
+      "imageSrc": "projects/procu.png",
+      "description": "Developed a streamlined Procurement Management System to efficiently manage vendor interactions, purchase orders, and inventory workflows.",
+      "skills": ["Figma"],
+      "demo": "https://www.figma.com/proto/Gg8KdMSs6p3xAFEo1XIuUr/FIGMA--design?node-id=1156-16350&t=8A7quzXqQ9CbcFWm-1",
+      "source": "https://www.figma.com/design/Gg8KdMSs6p3xAFEo1XIuUr/FIGMA--design?node-id=1156-16350&m=dev&t=8A7quzXqQ9CbcFWm-1"
+    },
+    {
+      "title": "Haut-Monde Hotel",
+      "imageSrc": "projects/hautmondefigma.png",
+      "description": "Designed comprehensive wireframe for Hout Mound Hotel using Figma, showcasing an intuitive user interface and seamless navigation to enhance user experience.",
+      "skills": ["Figma"],
+      "demo": "https://www.figma.com/proto/GEZ2rveq1Hd8JNvZb7xpV1/HAUT-MONDE-HOTELS-WIREFRAME?node-id=45-9&p=f&t=D8kbWcYZCca3K2Mh-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1",
+      "source": "https://www.figma.com/design/GEZ2rveq1Hd8JNvZb7xpV1/HAUT-MONDE-HOTELS-WIREFRAME?node-id=0-1&m=dev&t=uwiLXjsnM1nFo9cK-1"
+    },
+    {
       "title": "CVSnap",
       "imageSrc": "projects/CV.png",
       "description": "Designed and implemented 'CV Snap,' a powerful resume parser that extracts and organizes key details from PDF resumes with precision and clarity.",
@@ -30,24 +46,8 @@
       "skills": ["Python", "Streamlit", "CVZone", "OpenCV"],
       "demo": "https://motioncue.streamlit.app",
       "source": "https://github.com/Aniket035/MotionCue/blob/main/mainfinal.py"
-    },
-  
-    {
-      "title": "Portfolio Figma Design",
-      "imageSrc": "projects/portfoliofigma.png",
-      "description": "Designed an intuitive and visually appealing personal portfolio in Figma, showcasing projects, and skills with a user-friendly and professional layout.",
-      "skills": ["Figma"],
-      "demo": "https://www.figma.com/proto/XQ9uQ43BbGkaEAPkIkCfaA/Aniket-Portfolio?node-id=0-1&t=m7mOxfsuNOHbTq20-1",
-      "source": "https://www.figma.com/design/XQ9uQ43BbGkaEAPkIkCfaA/Aniket-Portfolio?node-id=0-1&m=dev&t=m7mOxfsuNOHbTq20-1"
-    },
-    {
-      "title": "Haut-Monde Hotel",
-      "imageSrc": "projects/hautmondefigma.png",
-      "description": "Designed comprehensive wireframe for Hout Mound Hotel using Figma, showcasing an intuitive user interface and seamless navigation to enhance user experience.",
-      "skills": ["Figma"],
-      "demo": "https://www.figma.com/proto/GEZ2rveq1Hd8JNvZb7xpV1/HAUT-MONDE-HOTELS-WIREFRAME?node-id=45-9&p=f&t=D8kbWcYZCca3K2Mh-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1",
-      "source": "https://www.figma.com/design/GEZ2rveq1Hd8JNvZb7xpV1/HAUT-MONDE-HOTELS-WIREFRAME?node-id=0-1&m=dev&t=uwiLXjsnM1nFo9cK-1"
     }
+    
     
   ]
   
