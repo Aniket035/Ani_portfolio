@@ -9,8 +9,8 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Aniket</h1>
         <p className={styles.description}>
-          I'm a Web developer/Designer with 1 years of experience using Figma, React and
-          JAVA & a Python developer. Reach out if you'd like to learn more!
+          I'm a Web developer/Designer with 1 years of experience using Figma, React, 
+          JAVA & Python developer. Reach out if you'd like to learn more!
         </p>
         <a href="mailto:rajaniket035@gmail.com" className={styles.contactBtn}>
           Contact Me
