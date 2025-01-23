@@ -42,7 +42,7 @@
     {
       "title": "Gesture Based Navigation",
       "imageSrc": "projects/gestur.png",
-      "description": "Developed a gesture-based navigation system enabling seamless control through intuitive hand movements for enhanced user interaction.",
+      "description": "Developed a gesture-based navigation system enabling seamless control through intuitive hand movements for enhanced user interaction with Presentation.",
       "skills": ["Python", "Streamlit", "CVZone", "OpenCV"],
       "demo": "https://motioncue.streamlit.app",
       "source": "https://github.com/Aniket035/MotionCue/blob/main/mainfinal.py"
